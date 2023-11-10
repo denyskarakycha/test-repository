@@ -6,7 +6,9 @@ const user = {
     }
 }
 
+
 console.log(user.sayHi());
+console.log(user.name);
 
 
 
