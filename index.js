@@ -5,7 +5,6 @@ const user = {
         return `My name ${this.name}`
     }
 }
-
 console.log(user.sayHi());
 
 
